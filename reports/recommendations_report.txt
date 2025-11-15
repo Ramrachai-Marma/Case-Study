@@ -1,0 +1,31 @@
+COSMETICS BRAND ANALYSIS - RECOMMENDATIONS REPORT
+============================================================
+Generated on: 2025-11-15 02:49:15
+
+EXECUTIVE SUMMARY
+----------------
+Based on comprehensive analysis of customer data, we recommend:
+1. Implement tiered product strategy for different income segments
+2. Develop targeted marketing approaches by demographic
+3. Focus on sustainability initiatives
+4. Improve customer experience to boost NPS
+5. Accelerate digital transformation
+
+KEY INSIGHTS
+------------
+Demographics:
+  gender_distribution: {'Female': 51.1, 'Male': 44.0, 'Other': 4.9}
+  age_stats: {'mean': np.float64(40.986), 'median': np.float64(42.0), 'std': np.float64(13.497851532595696)}
+  brand_preference: {'Brand D': 25.8, 'Brand A': 25.8, 'Brand C': 24.8, 'Brand B': 23.599999999999998}
+  most_popular_brand: Brand D
+
+Net Promoter Score: -45.8
+Customer Satisfaction: Needs improvement
+
+Customer Expectations:
+  Key themes: wind, clearly, foreign, pressure, seat
+  Average sentiment: 0.184
+
+DETAILED RECOMMENDATIONS
+------------------------
+See full analysis for detailed implementation guidelines.

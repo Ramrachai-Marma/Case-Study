@@ -1,0 +1,26 @@
+COSMETICS BRAND ANALYSIS - DATA QUALITY REPORT
+=======================================================
+
+Dataset Shape: (1000, 12)
+Total Records: 1,000
+Total Features: 12
+
+COLUMN INFORMATION:
+--------------------
+Customer_ID: object
+Age: int64
+Gender: object
+Income_Level: object
+Location: object
+Purchase_Frequency: object
+Brand_Preferences: object
+Importance_Price: int64
+Importance_Sustainability: int64
+Importance_Brand_Image: int64
+NPS: int64
+Open_Feedback: object
+
+MISSING VALUES:
+---------------
+
+DUPLICATE ROWS: 0

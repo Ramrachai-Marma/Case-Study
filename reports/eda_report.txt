@@ -1,0 +1,23 @@
+COSMETICS BRAND ANALYSIS - EDA REPORT
+=============================================
+
+DATASET OVERVIEW:
+Total Records: 1,000
+Total Features: 14
+
+GENDER DISTRIBUTION:
+  Female: 511 (51.1%)
+  Male: 440 (44.0%)
+  Other: 49 (4.9%)
+
+BRAND PREFERENCES:
+  Brand D: 258 (25.8%)
+  Brand A: 258 (25.8%)
+  Brand C: 248 (24.8%)
+  Brand B: 236 (23.6%)
+
+KEY INSIGHTS:
+  gender_distribution: {'Female': 51.1, 'Male': 44.0, 'Other': 4.9}
+  age_stats: {'mean': np.float64(40.986), 'median': np.float64(42.0), 'std': np.float64(13.497851532595696)}
+  brand_preference: {'Brand D': 25.8, 'Brand A': 25.8, 'Brand C': 24.8, 'Brand B': 23.599999999999998}
+  most_popular_brand: Brand D

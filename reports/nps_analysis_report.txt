@@ -1,0 +1,21 @@
+COSMETICS BRAND ANALYSIS - NPS ANALYSIS REPORT
+=======================================================
+
+OVERALL NPS SCORE: -45.8
+
+NPS SEGMENT DISTRIBUTION:
+-------------------------
+Detractor: 63.6%
+Passive: 18.6%
+Promoter: 17.8%
+
+TOP NPS DRIVERS (Correlation):
+------------------------------
+Importance_Price: -0.050
+Importance_Brand_Image: 0.028
+Importance_Sustainability: 0.021
+Age: 0.014
+
+RECOMMENDATIONS:
+---------------
+- Critical issues. Immediate action required.

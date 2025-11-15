@@ -1,0 +1,42 @@
+COSMETICS BRAND ANALYSIS - TEXT ANALYSIS REPORT
+==========================================================
+
+TEXT STATISTICS:
+---------------
+Average text length: 73.8 characters
+Average word count: 11.3 words
+Total responses: 1000
+
+SENTIMENT ANALYSIS:
+------------------
+Positive: 528 (52.8%)
+Neutral: 269 (26.9%)
+Negative: 203 (20.3%)
+
+Average compound sentiment: 0.184
+
+TOP KEYWORDS (TF-IDF):
+--------------------
+wind: 0.019
+clearly: 0.018
+foreign: 0.017
+pressure: 0.017
+seat: 0.017
+oil: 0.017
+room: 0.017
+star: 0.017
+available: 0.016
+form: 0.016
+natural: 0.016
+claim: 0.016
+treat: 0.016
+north: 0.016
+must: 0.016
+
+TOPIC MODELING (5 topics):
+-------------------------
+Topic_1: available, natural, treat, produce, human
+Topic_2: star, admit, local, couple, election
+Topic_3: phone, near, life, law, begin
+Topic_4: clearly, foreign, room, entire, somebody
+Topic_5: wind, form, bad, analysis, oil

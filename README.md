@@ -232,12 +232,7 @@ The notebook includes:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
 
-For questions, suggestions, or collaborations:
-- **Project Maintainer**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
 
 ## 🙏 Acknowledgments
 
